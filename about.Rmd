@@ -1,0 +1,5 @@
+---
+title: "About fAI"
+---
+
+The finance-AI project is 

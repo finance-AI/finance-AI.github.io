@@ -1,0 +1,9 @@
+name: "fAI-website"
+output_dir: "."
+navbar:
+  title: "finance-AI Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
